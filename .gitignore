@@ -1,7 +1,4 @@
-.git
-
 .directory
-
 .venv
-
 .vscode
+venv
